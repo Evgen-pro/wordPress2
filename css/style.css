@@ -127,3 +127,67 @@ h2.title {
   margin: 0 auto;
   margin-top: 13px;
 }
+
+.waiting {
+  padding: 85px 0 75px 0;
+  background-color: #EFEFEF;
+  height: 607px;
+}
+
+.waiting_header {
+  color: #252525;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 100% */
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.waiting_divider {
+  margin: 0 auto;
+  margin-top: 18px;
+  width: 220px;
+  height: 4px;
+  background-color: #F9BF3B;
+}
+
+.waiting_subheader {
+  margin-top: 17px;
+  color: #4A4A4A;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 86.957% */
+}
+
+.waiting_wrapper {
+  margin-top: 45px;
+}
+
+.waiting_item {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 15px;
+  width: 339px;
+  text-align: center;
+}
+
+.waiting_img {
+  width: 100%;
+}
+
+.waiting_descr {
+  margin-top: 33px;
+  color: #4A4A4A;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 21px; /* 140% */
+}
