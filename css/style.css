@@ -234,3 +234,45 @@ h2.title {
   left: -240px;
   z-index: -1;
 }
+
+.finish {
+  min-height: 447px;
+  padding: 86px 0 79px 0;
+  background: url('../img/forth-section/second_bg.png');
+}
+
+.finish .waiting_header {
+  color: #FFF;
+}
+
+.finish_wrapper {
+  margin-top: 41px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.finish_item {
+  width: 204px;
+}
+
+.finish_round {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  width: 118px;
+  height: 118px;
+  background-color: #B4E2FF;
+  border-radius: 100%;
+}
+
+.finish_descr {
+  margin-top: 25px;
+  color: #EFEFEF;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 20px; /* 117.647% */
+}
